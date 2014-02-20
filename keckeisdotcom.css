@@ -15,7 +15,7 @@
 		text-decoration: underline;
 	}
 
-	#main{
+	#main1{
 		margin: 0 auto -4em;
 		text-align: center;
 		width: 1000px;
@@ -28,18 +28,32 @@
 
 
 	}
+		#main2{
+		margin: 0 auto -4em;
+		text-align: center;
+		width: 1000px;
+		height: 680px;
+		font-size: 16px;
+		color: rgb(180, 24, 24);
+		border-radius: 10px;
+		background-color: #D8D8D8;
+		background-image: url(k_images/main-socialV2.png);
+
+
+	}
 
 	#topbanner{
-		background-color: white;
+		background-color: #DADEDD;
 		text-align: top;
 		vertical-align: middle;
 		margin-left: 25px;
 		margin-right: 25px;
-		margin-top: 150px;
+		margin-top: 160px;
 		width:50%;
 		height: 100px;
-		font-size: 36px;
-		color: black;
+		font-size: 60px;
+		font-weight: bold;
+		color: #3366CC;
 		border-radius: 5px;
 		display: inline-block;
 	}
