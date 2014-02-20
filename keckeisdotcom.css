@@ -21,7 +21,7 @@
 		width: 1000px;
 		height: 680px;
 		font-size: 16px;
-		color: rgb(180, 24, 24);
+		color: black;
 		border-radius: 10px;
 		background-color: #D8D8D8;
 		background-image: url(k_images/main-socialV3.png);
@@ -34,7 +34,7 @@
 		width: 1000px;
 		height: 680px;
 		font-size: 16px;
-		color: rgb(180, 24, 24);
+		color: black;
 		border-radius: 10px;
 		background-color: #D8D8D8;
 		background-image: url(k_images/main-socialV2.png);
@@ -94,11 +94,14 @@
 		height: 25px;
 		font-size: 16px;
 		font-weight: bold;
-		color: rgb(34,96,153);
+		color: #3366CC;
 		border-radius: 5px;
 		background-color: #DADEDD;
 		display: inline-block;
 		float:bottom;
+	}
+	#legal{
+		font-size: 12px;
 	}
 
 
