@@ -34,67 +34,26 @@
 		margin-left:95px;
 
 	}
-	.headline {
-		font-size: 42px;
-		font-family: arial;
-		font-color: #3399CC;
-		font-weight: bold;
-		margin-top: 20px;
-	}
 	#banner-home {
 		font-size: 42px;
 		font-family: arial;
-		font-color: #3399CC;
+		color: #3399CC;
 		font-weight: bold;
 		margin-top: 20px;
 	}
 
-	#banner-whatsthat {
-		font-size: 42px;
-		font-family: arial;
-		font-color: #3399CC;
-		font-weight: bold;
-		margin-top: 20px;
-	}
-
-	#banner-shouldicare {
-		font-size: 42px;
-		font-family: arial;
-		font-color: #3399CC;
-		font-weight: bold;
-		margin-top: 20px;
-	}
-
-	#banner-wecanhelp {
-		font-size: 42px;
-		font-family: arial;
-		font-color: #3399CC;
-		font-weight: bold;
-		margin-top: 20px;
-	}
-	#banner-aboutus {
-		font-size: 42px;
-		font-family: arial;
-		font-color: #3399CC;
-		font-weight: bold;
-		margin-top: 20px;
-	}
-	#callmebutton{
-		position:absolute;
-		top: 600px;
-		left:430px;
-
-	}
 
 	#legal{
 		position:absolute;
 		top: 780px;
-		left: 400px;
 		text-align: center;
 		font-size: 10px;
 	}
 
-	.proposal {
+
+
+
+		.proposal {
 		text-align: center;
 		vertical-align: middle;
 		margin-left: 12px;
@@ -105,10 +64,7 @@
 		font-size: 18px;
 		color: black;
 		display: inline-block;
-		position: absolute;
-		top:260px;
-		left: 220px;
-	}
-#lnk-home-button{}
-#lnk-what-button{}
 
+	}
+	#lnk-home-button{}
+	#lnk-what-button{}
