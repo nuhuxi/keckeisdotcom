@@ -72,13 +72,22 @@
 		font-weight: bold;
 		margin-top: 20px;
 	}
-	#banner-aboutus {
+	#banner-aboutme {
 		font-size: 42px;
 		font-family: arial;
 		font-color: #3399CC;
 		font-weight: bold;
 		margin-top: 20px;
 	}
+
+	#banner-contact {
+		font-size: 42px;
+		font-family: arial;
+		font-color: #3399CC;
+		font-weight: bold;
+		margin-top: 20px;
+	}
+	
 	#callmebutton{
 		position:absolute;
 		top: 600px;
