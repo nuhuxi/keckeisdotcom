@@ -11,6 +11,24 @@
 	a:hover {
 		text-decoration: underline;
 	}
+	#lnk-home-button:hover{
+		box-shadow: 10px 10px 5px #888888;
+	}
+	#lnk-what-button:hover{
+		box-shadow: 10px 10px 5px #888888;
+	}
+	#lnk-care-button:hover{
+		box-shadow: 10px 10px 5px #888888;
+	}
+	#lnk-help-button:hover{
+		box-shadow: 10px 10px 5px #888888;
+	}
+	#lnk-aboutme-button:hover{
+		box-shadow: 10px 10px 5px #888888;
+	}
+	#lnk-contact-button:hover{
+		box-shadow: 10px 10px 5px #888888;
+	}
 
 	#main1{
 		margin: 0 auto -4em;
@@ -25,7 +43,8 @@
 		background-repeat: no-repeat;
 	}
 
-	#top-nav {
+	.top-nav {
+
 		width:800px;
 		font-family: archivo;
 		font-size: 24px;
@@ -94,6 +113,10 @@
 		left:430px;
 
 	}
+	#callmebutton:hover{
+		box-shadow: 10px 10px 5px #888888;
+	}
+
 
 	#legal{
 		position:absolute;
@@ -118,6 +141,5 @@
 		top:260px;
 		left: 220px;
 	}
-#lnk-home-button{}
-#lnk-what-button{}
+
 
